@@ -2,4 +2,6 @@
  Analysis of online gaming product sales
 
 
-https://htmlpreview.github.io/?https://github.com/bipulmishra1/GAMING-PRODUCTS-SALES-ANALYSIS-U.S-/blob/main/Dashboard.HTML
+https://public.tableau.com/views/GAMINGPRODUCTSSALESANALYSISU_S/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/SalesProfitQuantityOfProducts/SalesProfitQuantityOfProducts?:language=en-US&:display_count=n&:origin=viz_share_link
